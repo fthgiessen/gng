@@ -1,4 +1,4 @@
-# Übungsdateien zum Grundkurs neutestamentliches Griechisch
+# Lösungen zum Grundkurs neutestamentliches Griechisch
 
 In diesem Repository befinden sich die offiziellen Lösungen zum Grundkurs neutestamentliches Griechisch von Heinrich von Siebenthal.
 
@@ -39,4 +39,4 @@ In diesem Repository befinden sich die offiziellen Lösungen zum Grundkurs neute
 
 ## QR-Codes
 
-Zu jeder PDF-Datei ist ein QR-Code als svg-Datei enthalten, der eine Persistent URL (PURL) zur jeweiligen Lösungsdatei liefert. Die QR-Codes wurden mit der [QR Code generator library](https://www.nayuki.io/page/qr-code-generator-library) erzeugt und auch im Buch verwendet.
+Im Verzeichnis QR-codes befindet sich zu jeder PDF-Datei ein QR-Code als svg-Datei, der eine Persistent URL (PURL) zur jeweiligen Lösungsdatei liefert. Die QR-Codes wurden mit der [QR Code generator library](https://www.nayuki.io/page/qr-code-generator-library) erzeugt und auch im Buch verwendet.
